@@ -1,0 +1,17 @@
+#btn{
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.btn_info{
+    width:30vw;
+    height:10vh;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+}
+body{
+    background-image: url(wall.jpg);
+}
